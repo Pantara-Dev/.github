@@ -15,6 +15,16 @@ Kami fokus pada pengembangan web modern dengan teknologi terkini, sambil saling 
 - Setiap ide didengar, setiap kontribusi dihargai
 - Belajar dari proyek nyata untuk klien sungguhan
 
+## Proyek Kami
+
+### Website Profil RISPOL Lumajang
+
+Website company profile untuk organisasi kerohanian Islam Politeknik Negeri Malang PSDKU Lumajang. Website ini menampilkan informasi organisasi, struktur divisi, dokumentasi kegiatan, dan FAQ untuk calon anggota.
+
+**Tech Stack:** Astro, Tailwind CSS, Vercel  
+**Status:** ✅ Live  
+  [Kunjungi Website](https://rispol-lumajang.vercel.app/)
+
 ## Tim Kami
 
 **Project Manager:**
